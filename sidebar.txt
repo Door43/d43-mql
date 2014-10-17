@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mql:home|Door43 (mql)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mql|d43-mql repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mql/archive/master.zip|d43-mql.zip]]
+
+**Recent Changes**
+{{changes>ns = mql}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mql|Ethnologue data]]
+
